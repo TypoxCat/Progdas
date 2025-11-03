@@ -14,7 +14,7 @@ struct studentType{
     char grade;
 };
 
-const int STUD_NUM = 5;
+const int STUD_NUM = 20;
 studentType classList[STUD_NUM];
 
 void assignGrade(studentType &s);
